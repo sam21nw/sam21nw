@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sam21nw
-- 👀 I’m interested in .Net App development 
+- 👀 I’m interested in Web App development 
 - 🌱 I’m currently learning C#, Python, data structures, algorithms.
 - 📫 You can reach me on sam21nw@gmail.com
 
