@@ -3,9 +3,9 @@ sam21nw/sam21nw is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ## 🚀 About Me
-👋 Hi, I’m @Sam Jacob
-👀 I'm currently working on .NET projects.
-📫 You can reach me on sam21nw@gmail.com
+- 👋 Hi, I’m @Sam Jacob.
+- 👀 I'm currently working on .NET projects.
+- 📫 Interested in cross-platform app development and websites.
 
 ## 🌐 Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sam.visuals) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sam21nw) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/sam21nw) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17041493) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sam21nw) 
