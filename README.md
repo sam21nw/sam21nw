@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
+<!--
 <h1 align="center">Hi 👋, I'm sam jacob</h1>
 <h3 align="center">A passionate software developer</h3>
 
