@@ -3,7 +3,7 @@ sam21nw/sam21nw is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ## 🚀 About Me
-- 👋 Hi, I’m Sam Jacob. Currently based in Oslo, NO.
+- 👋 Hi, I’m Sam Jacob. Currently based in Norway.
 - 👀 I'm currently working on .NET projects.
 - 📫 Interested in Application development, programming and data processing.
 
