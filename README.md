@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🚀 About Me
 - 👋 Hi, I’m Sam Jacob. Currently based in Norway.
-- 👀 I'm currently working on .NET projects.
+- 👀 I'm currently working on .NET projects, working with CSharp.
 - 📫 Interested in Application development, programming and data processing.
 
 ## 🌐 Social
